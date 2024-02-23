@@ -1,3 +1,0 @@
-pacote1==versao1
-pacote2==versao2
-# Adicione outras dependências conforme necessário
